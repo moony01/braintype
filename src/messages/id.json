@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Tes Tipe Otak",
+    "subtitle": "Temukan tipe otakmu\ndengan 12 pertanyaan seru",
+    "startButton": "Mulai Tes",
+    "questionCount": "12 pertanyaan · Sekitar 2 menit"
+  },
+  "quiz": {
+    "question": "Pertanyaan"
+  },
+  "questions": {
+    "q1": {
+      "text": "Saat membuat keputusan penting, kamu cenderung...",
+      "options": {
+        "a": "Menganalisis data dan fakta dengan cermat",
+        "b": "Berpikir logis, tapi juga mempertimbangkan perasaan",
+        "c": "Sangat mempercayai firasat",
+        "d": "Mengikuti ke mana hati membawa"
+      }
+    },
+    "q2": {
+      "text": "Saat teman curhat tentang masalahnya, kamu...",
+      "options": {
+        "a": "Berempati dulu dan membaca emosinya",
+        "b": "Menghibur secara emosional sambil memberi nasihat",
+        "c": "Menyusun situasi dan menyarankan solusi",
+        "d": "Memberikan analisis objektif untuk solusi terbaik"
+      }
+    },
+    "q3": {
+      "text": "Saat memilih film, kriteria apa yang kamu pakai?",
+      "options": {
+        "a": "Cek rating kritikus dan riwayat penghargaan",
+        "b": "Cari alur cerita dan genre yang menarik",
+        "c": "Ikuti suasana dan vibe dari trailer",
+        "d": "Ikuti emosi yang menarik saat itu"
+      }
+    },
+    "q4": {
+      "text": "Saat punya waktu luang, apa yang paling ingin kamu lakukan?",
+      "options": {
+        "a": "Aktivitas kreatif seperti menggambar, musik, menulis",
+        "b": "Memikirkan ide baru dan membayangkan kemungkinan",
+        "c": "Permainan otak seperti puzzle dan board game",
+        "d": "Aktivitas terorganisir seperti riset dan penyusunan data"
+      }
+    },
+    "q5": {
+      "text": "Bagaimana pendekatanmu dalam menyelesaikan masalah?",
+      "options": {
+        "a": "Mengikuti metode dan panduan yang sudah ada secara ketat",
+        "b": "Mencampur pendekatan kreatif dan terbukti",
+        "c": "Keluar dari kebiasaan dan mencoba hal baru",
+        "d": "Menemukan solusi inovatif yang belum terpikirkan siapa pun"
+      }
+    },
+    "q6": {
+      "text": "Saat membeli gadget baru, kamu...",
+      "options": {
+        "a": "Membaca manual dengan teliti dan mempelajari semua fitur",
+        "b": "Mempelajari dasar-dasar dengan cepat, cari tahu lebih lanjut nanti",
+        "c": "Menekan tombol dan mengeksplorasinya langsung",
+        "d": "Menggunakannya secara intuitif dan menemukan kegunaan baru"
+      }
+    },
+    "q7": {
+      "text": "Saat tiba di kota asing, kamu...",
+      "options": {
+        "a": "Berjalan ke mana pun instingmu membimbing",
+        "b": "Menentukan arah kasar dan menjelajah dengan bebas",
+        "c": "Mengamati sekitar dan menemukan tempat menarik",
+        "d": "Melihat peta dan mengunjungi tempat wisata secara sistematis"
+      }
+    },
+    "q8": {
+      "text": "Saat membentuk kesan pertama, apa yang kamu perhatikan?",
+      "options": {
+        "a": "Menganalisis faktor yang bisa diamati seperti penampilan dan perilaku",
+        "b": "Merasakan perasaan atau energi halus",
+        "c": "Mencoba membaca niat tersembunyi di balik permukaan",
+        "d": "Menemukan pola dalam kata-kata dan tindakan mereka"
+      }
+    },
+    "q9": {
+      "text": "Saat mendengar cerita yang rumit, kamu...",
+      "options": {
+        "a": "Memeriksa dan menyusun setiap detail dengan cermat",
+        "b": "Menangkap inti dan alurnya secara intuitif",
+        "c": "Menghubungkannya dengan cerita terkait lainnya",
+        "d": "Membayangkan gambaran besar dulu, lalu mengisi detailnya"
+      }
+    },
+    "q10": {
+      "text": "Saat merencanakan perjalanan, gayamu adalah...",
+      "options": {
+        "a": "Merencanakan setiap jadwal dan reservasi dengan teliti",
+        "b": "Menentukan kerangka kasar, menjaga detail tetap fleksibel",
+        "c": "Pilih tujuan saja dan mengalir begitu saja",
+        "d": "Tanpa rencana sama sekali - pergi ke mana pun kaki membawa"
+      }
+    },
+    "q11": {
+      "text": "Saat memulai proyek, yang pertama kamu lakukan...",
+      "options": {
+        "a": "Langsung mulai dan menyesuaikan di perjalanan",
+        "b": "Menentukan arah kasar dan langsung eksekusi",
+        "c": "Membuat rencana langkah demi langkah dan eksekusi secara sistematis",
+        "d": "Membangun peta jalan detail dengan milestone"
+      }
+    },
+    "q12": {
+      "text": "Sikapmu terhadap tugas dengan tenggat waktu adalah...",
+      "options": {
+        "a": "Selesaikan lebih awal dan nikmati waktu santai",
+        "b": "Progres secara stabil dengan tekanan moderat",
+        "c": "Fokus meledak mendekati tenggat waktu",
+        "d": "Ketegangan tenggat waktu meningkatkan kreativitasku"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "Sang Ahli Strategi",
+      "description": "Kamu mencapai tujuan melalui analisis dingin dan perencanaan sistematis. Keputusanmu berbasis data, dan kamu selalu punya visi jangka panjang.",
+      "traits": "Pemikiran Analitis, Perencanaan Sistematis, Berbasis Data, Berorientasi Tujuan"
+    },
+    "artist": {
+      "title": "Sang Seniman",
+      "description": "Kamu mewarnai dunia dengan emosi kaya dan imajinasi tanpa batas. Mengikuti inspirasi intuitif, kamu adalah jiwa bebas yang tak terikat konvensi.",
+      "traits": "Inspirasi Kreatif, Emosi Kaya, Jiwa Bebas, Ekspresi Intuitif"
+    },
+    "scientist": {
+      "title": "Sang Ilmuwan",
+      "description": "Kamu menjelajahi prinsip-prinsip dunia dengan rasa ingin tahu dan logika. Mengungkap kebenaran melalui observasi dan eksperimen, kamu menikmati momen penemuan spontan.",
+      "traits": "Penyelidikan Logis, Semangat Eksperimen, Observasi Tajam, Pencarian Kebenaran"
+    },
+    "performer": {
+      "title": "Sang Performer",
+      "description": "Kamu memikat orang dengan empati luar biasa dan visi kreatif. Sambil mempersiapkan panggung secara metodis, kamu menggetarkan penonton dengan energi emosional.",
+      "traits": "Karisma, Empati, Visi Kreatif, Eksekusi Terencana"
+    },
+    "architect": {
+      "title": "Sang Arsitek",
+      "description": "Kamu merancang inovasi secara sistematis dengan menggabungkan logika dan kreativitas. Kemampuanmu menyusun ide baru menjadi cetak biru yang bisa diwujudkan sangat luar biasa.",
+      "traits": "Desain Inovasi, Pemikiran Struktural, Kreatif+Logis, Realisasi Visi"
+    },
+    "explorer": {
+      "title": "Sang Penjelajah",
+      "description": "Kamu menjelajahi wilayah tak terjamah dengan intuisi kuat dan emosi. Dengan langkah analitis namun spontan, kamu menemukan apa yang tidak bisa dilihat orang lain.",
+      "traits": "Penjelajahan Intuitif, Analisis Emosional, Petualang, Kegembiraan Penemuan"
+    },
+    "manager": {
+      "title": "Sang Manajer",
+      "description": "Kamu memimpin organisasi dengan intuisi logis dan manajemen sistematis. Memahami orang dan sistem, kamu mencapai tujuan secara efisien.",
+      "traits": "Kepemimpinan, Organisasi, Intuisi Logis, Efisiensi Maksimal"
+    },
+    "dreamer": {
+      "title": "Sang Pemimpi",
+      "description": "Kamu memimpikan dunia baru dengan imajinasi tanpa batas dan emosi. Mendapatkan inspirasi melalui observasi, kreasi spontanmu melahirkan karya-karya orisinal.",
+      "traits": "Imajinasi Tak Terbatas, Perspektif Orisinal, Kreasi Spontan, Observasi Emosional"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Pemikiran",
+      "logicPos": "Logis",
+      "logicNeg": "Emosional",
+      "creative": "Pemecahan Masalah",
+      "creativePos": "Kreatif",
+      "creativeNeg": "Analitis",
+      "intuition": "Persepsi",
+      "intuitionPos": "Intuitif",
+      "intuitionNeg": "Observatif",
+      "planning": "Eksekusi",
+      "planningPos": "Terencana",
+      "planningNeg": "Spontan"
+    }
+  },
+  "share": {
+    "label": "Bagikan hasilmu!",
+    "shareText": "Tipe otakku adalah {type}! Apa tipe otakmu? 🧠",
+    "copyLink": "Salin Tautan",
+    "copySuccess": "Tautan disalin!"
+  }
+}

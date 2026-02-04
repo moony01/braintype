@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Gehirntyp-Test",
+    "subtitle": "Entdecke deinen Gehirntyp\nmit 12 unterhaltsamen Fragen",
+    "startButton": "Test starten",
+    "questionCount": "12 Fragen · Etwa 2 Minuten"
+  },
+  "quiz": {
+    "question": "Frage"
+  },
+  "questions": {
+    "q1": {
+      "text": "Wenn du eine wichtige Entscheidung treffen musst, neigst du dazu...",
+      "options": {
+        "a": "Daten und Fakten sorgfaltig zu analysieren",
+        "b": "Logisch zu denken, aber auch Gefuhle zu berucksichtigen",
+        "c": "Stark auf dein Bauchgefuhl zu vertrauen",
+        "d": "Deinem Herzen zu folgen, wohin es dich fuhrt"
+      }
+    },
+    "q2": {
+      "text": "Wenn ein Freund dir von einem Problem erzahlt, dann...",
+      "options": {
+        "a": "Zeigst du zuerst Mitgefuhl und liest seine Emotionen",
+        "b": "Trostest du emotional und gibst gleichzeitig Ratschlage",
+        "c": "Ordnest du die Situation und schlagst Losungen vor",
+        "d": "Bietest du eine objektive Analyse fur die beste Losung"
+      }
+    },
+    "q3": {
+      "text": "Nach welchen Kriterien wahlst du einen Film aus?",
+      "options": {
+        "a": "Kritikerbewertungen und Auszeichnungen prufen",
+        "b": "Nach interessanten Handlungen und Genres schauen",
+        "c": "Mich von der Stimmung des Trailers mitreissen lassen",
+        "d": "Der Emotion folgen, die mich im Moment packt"
+      }
+    },
+    "q4": {
+      "text": "Was mochtest du am liebsten tun, wenn du freie Zeit hast?",
+      "options": {
+        "a": "Kreative Aktivitaten wie Zeichnen, Musik, Schreiben",
+        "b": "Neue Ideen entwickeln und Moglichkeiten vorstellen",
+        "c": "Denkspiele wie Puzzles und Brettspiele",
+        "d": "Organisierte Aktivitaten wie Recherche und Datenordnung"
+      }
+    },
+    "q5": {
+      "text": "Wie gehst du an die Losung eines Problems heran?",
+      "options": {
+        "a": "Bewahrte Methoden und Anleitungen strikt befolgen",
+        "b": "Kreative und bewahrte Ansatze mischen",
+        "c": "Konventionen brechen und Neues ausprobieren",
+        "d": "Innovative Losungen finden, an die niemand gedacht hat"
+      }
+    },
+    "q6": {
+      "text": "Wenn du ein neues Gerat kaufst, dann...",
+      "options": {
+        "a": "Liest du die Anleitung sorgfaltig und lernst alle Funktionen",
+        "b": "Lernst du schnell die Grundlagen und schaust spater nach",
+        "c": "Druckst du Knopfe und erkundest es selbst",
+        "d": "Benutzt du es intuitiv und entdeckst neue Verwendungen"
+      }
+    },
+    "q7": {
+      "text": "Wenn du in einer fremden Stadt ankommst, dann...",
+      "options": {
+        "a": "Gehst du dorthin, wohin dein Instinkt dich fuhrt",
+        "b": "Legst du eine grobe Richtung fest und erkundest frei",
+        "c": "Beobachtest du die Umgebung und findest interessante Orte",
+        "d": "Schaust du auf die Karte und besuchst Sehenswurdigkeiten systematisch"
+      }
+    },
+    "q8": {
+      "text": "Worauf achtest du beim ersten Eindruck?",
+      "options": {
+        "a": "Beobachtbare Faktoren wie Aussehen und Verhalten analysieren",
+        "b": "Ein subtiles Gefuhl oder eine Energie wahrnehmen",
+        "c": "Versuchen, verborgene Absichten hinter der Oberflache zu lesen",
+        "d": "Muster in Worten und Handlungen finden"
+      }
+    },
+    "q9": {
+      "text": "Wenn du eine komplexe Geschichte horst, dann...",
+      "options": {
+        "a": "Prufst und ordnest du jedes Detail sorgfaltig",
+        "b": "Erfasst du das Wesentliche und den Fluss intuitiv",
+        "c": "Verbindest du es mit anderen verwandten Geschichten",
+        "d": "Stellst du dir zuerst das Gesamtbild vor, dann fullst du Details"
+      }
+    },
+    "q10": {
+      "text": "Wenn du eine Reise planst, ist dein Stil...",
+      "options": {
+        "a": "Jeden Zeitplan und jede Reservierung akribisch planen",
+        "b": "Einen groben Rahmen setzen, Details flexibel halten",
+        "c": "Nur ein Ziel wahlen und sich treiben lassen",
+        "d": "Gar kein Plan - einfach gehen, wohin die Fusse tragen"
+      }
+    },
+    "q11": {
+      "text": "Wenn du ein Projekt startest, machst du zuerst...",
+      "options": {
+        "a": "Einfach anfangen und unterwegs anpassen",
+        "b": "Eine grobe Richtung festlegen und sofort loslegen",
+        "c": "Einen schrittweisen Plan erstellen und systematisch umsetzen",
+        "d": "Eine detaillierte Roadmap mit Meilensteinen erstellen"
+      }
+    },
+    "q12": {
+      "text": "Deine Einstellung zu Aufgaben mit Deadline ist...",
+      "options": {
+        "a": "Fruh fertig werden und die Ruhe geniessen",
+        "b": "Stetig voranschreiten mit massgem Druck",
+        "c": "Die Konzentration explodiert kurz vor der Deadline",
+        "d": "Die Anspannung der Deadline steigert meine Kreativitat"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "Der Stratege",
+      "description": "Du erreichst Ziele durch kuhle Analyse und systematische Planung. Deine Entscheidungen basieren auf Daten, und du hast immer eine langfristige Vision.",
+      "traits": "Analytisches Denken, Systematische Planung, Datengetrieben, Zielorientiert"
+    },
+    "artist": {
+      "title": "Der Kunstler",
+      "description": "Du farbst die Welt mit reichen Emotionen und grenzenloser Fantasie. Intuitiver Inspiration folgend, bist du ein freier Geist ohne Grenzen.",
+      "traits": "Kreative Inspiration, Reiche Emotionen, Freier Geist, Intuitiver Ausdruck"
+    },
+    "scientist": {
+      "title": "Der Wissenschaftler",
+      "description": "Du erforschst die Prinzipien der Welt mit Neugier und Logik. Durch Beobachtung und Experiment die Wahrheit enthullend, geniesst du Momente spontaner Entdeckung.",
+      "traits": "Logische Forschung, Experimentiergeist, Scharfe Beobachtung, Wahrheitssuche"
+    },
+    "performer": {
+      "title": "Der Performer",
+      "description": "Du fesselst Menschen mit herausragender Empathie und kreativer Vision. Wahrend du die Buhne methodisch vorbereitest, elektrisierst du das Publikum mit emotionaler Energie.",
+      "traits": "Charisma, Empathie, Kreative Vision, Geplante Ausfuhrung"
+    },
+    "architect": {
+      "title": "Der Architekt",
+      "description": "Du entwirfst systematisch Innovation durch die Kombination von Logik und Kreativitat. Deine Fahigkeit, neue Ideen in erreichbare Entwurfe zu strukturieren, ist aussergewohnlich.",
+      "traits": "Innovationsdesign, Strukturelles Denken, Kreativitat+Logik, Visionsverwirklichung"
+    },
+    "explorer": {
+      "title": "Der Entdecker",
+      "description": "Du erkundest unbekanntes Terrain mit starker Intuition und Emotion. Mit analytischen aber spontanen Schritten entdeckst du, was andere nicht sehen konnen.",
+      "traits": "Intuitive Erkundung, Emotionale Analyse, Abenteuerlustig, Entdeckungsfreude"
+    },
+    "manager": {
+      "title": "Der Manager",
+      "description": "Du fuhrst Organisationen mit logischer Intuition und systematischem Management. Menschen und Systeme verstehend, erreichst du Ziele effizient.",
+      "traits": "Fuhrung, Organisation, Logische Intuition, Maximale Effizienz"
+    },
+    "dreamer": {
+      "title": "Der Traumer",
+      "description": "Du traumst neue Welten mit grenzenloser Fantasie und Emotion. Inspiration durch Beobachtung gewinnend, bringen deine spontanen Kreationen originelle Werke hervor.",
+      "traits": "Grenzenlose Fantasie, Originelle Perspektive, Spontane Kreation, Emotionale Beobachtung"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Denkweise",
+      "logicPos": "Logisch",
+      "logicNeg": "Emotional",
+      "creative": "Problemlosung",
+      "creativePos": "Kreativ",
+      "creativeNeg": "Analytisch",
+      "intuition": "Wahrnehmung",
+      "intuitionPos": "Intuitiv",
+      "intuitionNeg": "Beobachtend",
+      "planning": "Ausfuhrung",
+      "planningPos": "Geplant",
+      "planningNeg": "Spontan"
+    }
+  },
+  "share": {
+    "label": "Teile dein Ergebnis!",
+    "shareText": "Mein Gehirntyp ist {type}! Was ist deiner? 🧠",
+    "copyLink": "Link kopieren",
+    "copySuccess": "Link kopiert!"
+  }
+}

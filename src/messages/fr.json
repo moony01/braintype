@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Test de Type Cerebral",
+    "subtitle": "Decouvrez votre type de cerveau\navec 12 questions amusantes",
+    "startButton": "Commencer le Test",
+    "questionCount": "12 questions · Environ 2 minutes"
+  },
+  "quiz": {
+    "question": "Question"
+  },
+  "questions": {
+    "q1": {
+      "text": "Lorsque vous devez prendre une decision importante, vous avez tendance a...",
+      "options": {
+        "a": "Analyser soigneusement les donnees et les faits",
+        "b": "Reflechir logiquement, mais aussi tenir compte des sentiments",
+        "c": "Faire confiance a votre instinct de maniere significative",
+        "d": "Suivre la ou votre coeur vous mene"
+      }
+    },
+    "q2": {
+      "text": "Quand un ami vous confie un probleme, vous...",
+      "options": {
+        "a": "Commencez par compatir et lire ses emotions",
+        "b": "Le reconfortez emotionnellement tout en donnant des conseils",
+        "c": "Organisez la situation et suggerez des solutions",
+        "d": "Fournissez une analyse objective pour la meilleure solution"
+      }
+    },
+    "q3": {
+      "text": "Quels criteres utilisez-vous pour choisir un film ?",
+      "options": {
+        "a": "Verifier les notes des critiques et le palmares",
+        "b": "Regarder les intrigues et les genres interessants",
+        "c": "Se laisser porter par l'ambiance de la bande-annonce",
+        "d": "Suivre l'emotion qui vous attire sur le moment"
+      }
+    },
+    "q4": {
+      "text": "Quand vous avez du temps libre, que voulez-vous faire le plus ?",
+      "options": {
+        "a": "Des activites creatives comme le dessin, la musique, l'ecriture",
+        "b": "Imaginer de nouvelles idees et envisager des possibilites",
+        "c": "Des jeux de reflexion comme les puzzles et les jeux de societe",
+        "d": "Des activites organisees comme la recherche et le classement de donnees"
+      }
+    },
+    "q5": {
+      "text": "Comment abordez-vous la resolution d'un probleme ?",
+      "options": {
+        "a": "Suivre strictement les methodes et manuels etablis",
+        "b": "Melanger des approches creatives et eprouvees",
+        "c": "Sortir des conventions et essayer de nouvelles choses",
+        "d": "Trouver des solutions innovantes auxquelles personne n'a pense"
+      }
+    },
+    "q6": {
+      "text": "Quand vous achetez un nouveau gadget, vous...",
+      "options": {
+        "a": "Lisez attentivement le manuel et apprenez toutes les fonctions",
+        "b": "Apprenez rapidement les bases, cherchez plus tard",
+        "c": "Appuyez sur les boutons et explorez par vous-meme",
+        "d": "L'utilisez intuitivement et decouvrez de nouveaux usages"
+      }
+    },
+    "q7": {
+      "text": "En arrivant dans une ville inconnue, vous...",
+      "options": {
+        "a": "Vous laissez guider par votre instinct",
+        "b": "Fixez une direction generale et explorez librement",
+        "c": "Observez les environs et trouvez des endroits interessants",
+        "d": "Consultez une carte et visitez les sites systematiquement"
+      }
+    },
+    "q8": {
+      "text": "En formant une premiere impression, sur quoi vous concentrez-vous ?",
+      "options": {
+        "a": "Analyser des facteurs observables comme l'apparence et le comportement",
+        "b": "Percevoir une sensation ou une energie subtile",
+        "c": "Essayer de lire les intentions cachees au-dela de la surface",
+        "d": "Trouver des schemas dans les paroles et les actions"
+      }
+    },
+    "q9": {
+      "text": "En ecoutant une histoire complexe, vous...",
+      "options": {
+        "a": "Verifiez et organisez chaque detail soigneusement",
+        "b": "Saisissez l'essentiel et le fil intuitivement",
+        "c": "Le reliez a d'autres histoires connexes",
+        "d": "Visualisez d'abord la vue d'ensemble, puis completez les details"
+      }
+    },
+    "q10": {
+      "text": "En planifiant un voyage, votre style est...",
+      "options": {
+        "a": "Planifier chaque horaire et reservation minutieusement",
+        "b": "Fixer un cadre general, garder les details flexibles",
+        "c": "Juste choisir une destination et improviser",
+        "d": "Aucun plan du tout - aller ou vos pieds vous menent"
+      }
+    },
+    "q11": {
+      "text": "En commencant un projet, vous faites d'abord...",
+      "options": {
+        "a": "Commencer directement et ajuster en cours de route",
+        "b": "Fixer une direction generale et executer immediatement",
+        "c": "Creer un plan etape par etape et executer systematiquement",
+        "d": "Construire une feuille de route detaillee avec des jalons"
+      }
+    },
+    "q12": {
+      "text": "Votre attitude envers les taches avec des delais est...",
+      "options": {
+        "a": "Terminer tot et profiter du temps libre",
+        "b": "Avancer regulierement avec une pression moderee",
+        "c": "La concentration explose a l'approche de la date limite",
+        "d": "La tension de la date limite stimule ma creativite"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "Le Stratege",
+      "description": "Vous atteignez vos objectifs grace a une analyse froide et une planification systematique. Vos decisions sont fondees sur les donnees, et vous avez toujours une vision a long terme.",
+      "traits": "Pensee Analytique, Planification Systematique, Axe sur les Donnees, Oriente Objectifs"
+    },
+    "artist": {
+      "title": "L'Artiste",
+      "description": "Vous colorez le monde avec des emotions riches et une imagination sans limites. Suivant l'inspiration intuitive, vous etes un esprit libre sans contraintes.",
+      "traits": "Inspiration Creative, Emotions Riches, Esprit Libre, Expression Intuitive"
+    },
+    "scientist": {
+      "title": "Le Scientifique",
+      "description": "Vous explorez les principes du monde avec curiosite et logique. Revelant la verite par l'observation et l'experience, vous appreciez les moments de decouverte spontanee.",
+      "traits": "Recherche Logique, Esprit Experimental, Observation Fine, Quete de Verite"
+    },
+    "performer": {
+      "title": "L'Artiste de Scene",
+      "description": "Vous captivez les gens avec une empathie remarquable et une vision creative. Tout en preparant la scene methodiquement, vous electrisez le public avec une energie emotionnelle.",
+      "traits": "Charisme, Empathie, Vision Creative, Execution Planifiee"
+    },
+    "architect": {
+      "title": "L'Architecte",
+      "description": "Vous concevez systematiquement l'innovation en combinant logique et creativite. Votre capacite a structurer de nouvelles idees en plans realisables est exceptionnelle.",
+      "traits": "Conception Innovante, Pensee Structurelle, Creativite+Logique, Realisation de Vision"
+    },
+    "explorer": {
+      "title": "L'Explorateur",
+      "description": "Vous explorez des territoires inconnus avec une forte intuition et emotion. Avec des pas analytiques mais spontanes, vous decouvrez ce que les autres ne peuvent voir.",
+      "traits": "Exploration Intuitive, Analyse Emotionnelle, Aventurier, Joie de la Decouverte"
+    },
+    "manager": {
+      "title": "Le Manager",
+      "description": "Vous dirigez des organisations avec une intuition logique et une gestion systematique. Comprenant les personnes et les systemes, vous atteignez vos objectifs efficacement.",
+      "traits": "Leadership, Organisation, Intuition Logique, Efficacite Maximale"
+    },
+    "dreamer": {
+      "title": "Le Reveur",
+      "description": "Vous revez de nouveaux mondes avec une imagination sans bornes et de l'emotion. Trouvant l'inspiration par l'observation, vos creations spontanees donnent naissance a des oeuvres originales.",
+      "traits": "Imagination Illimitee, Perspective Originale, Creation Spontanee, Observation Emotionnelle"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Pensee",
+      "logicPos": "Logique",
+      "logicNeg": "Emotionnel",
+      "creative": "Resolution de Problemes",
+      "creativePos": "Creatif",
+      "creativeNeg": "Analytique",
+      "intuition": "Perception",
+      "intuitionPos": "Intuitif",
+      "intuitionNeg": "Observateur",
+      "planning": "Execution",
+      "planningPos": "Planifie",
+      "planningNeg": "Spontane"
+    }
+  },
+  "share": {
+    "label": "Partagez votre resultat !",
+    "shareText": "Mon type de cerveau est {type} ! Et le votre ? 🧠",
+    "copyLink": "Copier le lien",
+    "copySuccess": "Lien copie !"
+  }
+}

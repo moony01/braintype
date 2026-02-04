@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Beyin Tipi Testi",
+    "subtitle": "12 eglenceli soruyla\nbeyin tipini kesfet",
+    "startButton": "Teste Basla",
+    "questionCount": "12 soru · Yaklasik 2 dakika"
+  },
+  "quiz": {
+    "question": "Soru"
+  },
+  "questions": {
+    "q1": {
+      "text": "Onemli bir karar verirken, sen genellikle...",
+      "options": {
+        "a": "Verileri ve gercekleri dikkatlice analiz edersin",
+        "b": "Mantikli dusunursun ama duygulari da goz onunde bulundurursun",
+        "c": "Icguduune onemli olcude guvenirsin",
+        "d": "Kalbinin goturdugu yere gidersin"
+      }
+    },
+    "q2": {
+      "text": "Bir arkadasin sana bir sorununu actigi zaman, sen...",
+      "options": {
+        "a": "Once empati kurar ve duygularini okursun",
+        "b": "Duygusal olarak teselli eder, ayni zamanda tavsiye verirsin",
+        "c": "Durumu duzenler ve cozum onerileri sunarsun",
+        "d": "En iyi cozum icin nesnel bir analiz sunarsun"
+      }
+    },
+    "q3": {
+      "text": "Film secerken hangi kriterleri kullanirsin?",
+      "options": {
+        "a": "Elestirmen puanlarini ve odul gecmisini kontrol edersin",
+        "b": "Ilginc hikayelere ve turlere bakarsin",
+        "c": "Fragmanin havasi ve atmosferine kapilirsin",
+        "d": "O anki seni ceken duyguyu takip edersin"
+      }
+    },
+    "q4": {
+      "text": "Bos zamanin oldugunda en cok ne yapmak istersin?",
+      "options": {
+        "a": "Cizim, muzik, yazma gibi yaratici aktiviteler",
+        "b": "Yeni fikirler uretmek ve olasiliklari hayal etmek",
+        "c": "Bulmaca ve kutu oyunlari gibi beyin oyunlari",
+        "d": "Arastirma ve veri duzenleme gibi sistematik aktiviteler"
+      }
+    },
+    "q5": {
+      "text": "Bir sorunu cozmeye nasil yaklasirsin?",
+      "options": {
+        "a": "Mevcut yontemleri ve kilavuzlari siki sikiya takip edersin",
+        "b": "Yaratici ve kanitlanmis yaklasimlari bir araya getirirsin",
+        "c": "Geleneklerden kopar ve yeni seyler denersin",
+        "d": "Kimsenin dusunmedigi yenilikci cozumler bulursun"
+      }
+    },
+    "q6": {
+      "text": "Yeni bir cihaz satin aldiginda, sen...",
+      "options": {
+        "a": "Kullanim kilavuzunu dikkatlice okur ve tum ozellikleri ogrenirsin",
+        "b": "Temelleri hizla ogrenir, geri kalanini sonra arastirirsin",
+        "c": "Tuslara basar ve dogrudan kesfedersin",
+        "d": "Sezgisel kullanir ve yeni kullanim alanlari kesfedersin"
+      }
+    },
+    "q7": {
+      "text": "Yabanci bir sehre vardiginda, sen...",
+      "options": {
+        "a": "Icguduunun seni goturdugu yere yurursin",
+        "b": "Kabaca bir yon belirler ve ozgurce kesfedersin",
+        "c": "Cevreyi gozlemler ve ilginc yerler bulursun",
+        "d": "Haritaya bakar ve turistik yerleri sistematik olarak ziyaret edersin"
+      }
+    },
+    "q8": {
+      "text": "Ilk izlenim olusturulurken neye odaklanirsin?",
+      "options": {
+        "a": "Gorunus ve davranis gibi gozlemlenebilir faktorleri analiz edersin",
+        "b": "Ince bir his veya enerji hissedersin",
+        "c": "Yuzeyin otesindeki gizli niyetleri okumaya calisirsin",
+        "d": "Sozcuklerinde ve davranislarinda oruntu bulursun"
+      }
+    },
+    "q9": {
+      "text": "Karmasik bir hikaye duydugunuzda, sen...",
+      "options": {
+        "a": "Her detayi dikkatlice kontrol eder ve duzenlersin",
+        "b": "Ozunu ve akisini sezgisel olarak kavrarsun",
+        "c": "Onu diger ilgili hikayelerle iliskilendirirsin",
+        "d": "Once buyuk resmi gorsellestirir, sonra ayrintilari doldurursun"
+      }
+    },
+    "q10": {
+      "text": "Seyahat planlarken, senin tarzin...",
+      "options": {
+        "a": "Her programi ve rezervasyonu titizlikle planlamak",
+        "b": "Genel bir cerceve belirleyip ayrintilari esnek tutmak",
+        "c": "Sadece bir hedef secip akisina birakmak",
+        "d": "Hicbir plan yok - ayaklarin seni nereye goturuse oraya gitmek"
+      }
+    },
+    "q11": {
+      "text": "Bir projeye baslarken, once...",
+      "options": {
+        "a": "Dogrudan baslar ve yol boyunca ayarlarsin",
+        "b": "Genel bir yon belirler ve hemen uygulamaya gecersin",
+        "c": "Adim adim bir plan olusturur ve sistematik olarak uygularsin",
+        "d": "Kilometre taslari olan ayrintili bir yol haritasi olusturursun"
+      }
+    },
+    "q12": {
+      "text": "Son tarihi olan gorevlere karsi tutumun...",
+      "options": {
+        "a": "Erken bitirip rahatlamin keyfini cikarmak",
+        "b": "Olculu bir basinc altinda istikrarli ilerleme",
+        "c": "Son tarihe yaklasinca odaklanma patlamas",
+        "d": "Son tarih gerilimi yaraticiligi arttirir"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "Stratejist",
+      "description": "Sogukkanli analiz ve sistematik planlama ile hedeflerine ulasirsin. Kararlarin veriye dayali ve her zaman uzun vadeli bir vizyonun var.",
+      "traits": "Analitik Dusunce, Sistematik Planlama, Veri Odakli, Hedef Yonelimli"
+    },
+    "artist": {
+      "title": "Sanatci",
+      "description": "Zengin duygular ve sinirsiz hayal gucuyle dunyayi renklendirir. Sezgisel ilhami takip ederek, kaliplara bagli olmayan ozgur bir ruhsun.",
+      "traits": "Yaratici Ilham, Zengin Duygular, Ozgur Ruh, Sezgisel Ifade"
+    },
+    "scientist": {
+      "title": "Bilim Insani",
+      "description": "Merak ve mantikla dunyanin ilkelerini kesfedersin. Gozlem ve deneylerle gercegi ortaya cikararak, kendiligindon kesfin anlarinin tadini cikarirsin.",
+      "traits": "Mantiksal Arastirma, Deneysel Ruh, Keskin Gozlem, Gercek Arayisi"
+    },
+    "performer": {
+      "title": "Performansci",
+      "description": "Ustun empati ve yaratici vizyonla insanlari buyulersin. Sahneyi metodik olarak hazirlarken, izleyiciyi duygusal enerjiyle elektriklendirirsin.",
+      "traits": "Karizma, Empati, Yaratici Vizyon, Planli Uygulama"
+    },
+    "architect": {
+      "title": "Mimar",
+      "description": "Mantik ve yaraticiligi birlestirerek sistematik olarak inovasyon tasarlarsin. Yeni fikirleri uygulanabilir projelere donusturme yetenegin olaganustu.",
+      "traits": "Inovasyon Tasarimi, Yapisal Dusunce, Yaraticilik+Mantik, Vizyon Gerceklestirme"
+    },
+    "explorer": {
+      "title": "Kasif",
+      "description": "Guclu sezgi ve duygularla kesfedilmemis topraklari kesfedersin. Analitik ama spontan adimlarla, baskalarin goremedigini kesfedersin.",
+      "traits": "Sezgisel Kesif, Duygusal Analiz, Maceracu, Kesfin Sevinci"
+    },
+    "manager": {
+      "title": "Yonetici",
+      "description": "Mantiksal sezgi ve sistematik yonetimle organizasyonlara liderlik edersin. Hem insanlari hem sistemleri anlayarak hedeflere verimli bir sekilde ulasirsin.",
+      "traits": "Liderlik, Organizasyon, Mantiksal Sezgi, Maksimum Verimlilik"
+    },
+    "dreamer": {
+      "title": "Hayalperest",
+      "description": "Sinirsiz hayal gucu ve duygularla yeni dunyalar hayaledersin. Gozlem yoluyla ilham alarak, spontan yaratimlarinla orijinal eserler ortaya koyarsin.",
+      "traits": "Sinirsiz Hayal Gucu, Orijinal Bakis Acisi, Spontan Yaratim, Duygusal Gozlem"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Dusunce",
+      "logicPos": "Mantiksal",
+      "logicNeg": "Duygusal",
+      "creative": "Problem Cozme",
+      "creativePos": "Yaratici",
+      "creativeNeg": "Analitik",
+      "intuition": "Algilama",
+      "intuitionPos": "Sezgisel",
+      "intuitionNeg": "Gozlemci",
+      "planning": "Uygulama",
+      "planningPos": "Planli",
+      "planningNeg": "Spontan"
+    }
+  },
+  "share": {
+    "label": "Sonucunu paylas!",
+    "shareText": "Benim beyin tipim {type}! Seninki ne? 🧠",
+    "copyLink": "Baglanti Kopyala",
+    "copySuccess": "Baglanti kopyalandi!"
+  }
+}

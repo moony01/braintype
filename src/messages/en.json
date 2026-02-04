@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Brain Type Test",
+    "subtitle": "Discover your brain type\nwith 12 fun questions",
+    "startButton": "Start Test",
+    "questionCount": "12 questions · About 2 minutes"
+  },
+  "quiz": {
+    "question": "Question"
+  },
+  "questions": {
+    "q1": {
+      "text": "When making an important decision, you tend to...",
+      "options": {
+        "a": "Carefully analyze data and facts",
+        "b": "Think logically, but also consider feelings",
+        "c": "Trust your gut feeling significantly",
+        "d": "Follow wherever your heart leads"
+      }
+    },
+    "q2": {
+      "text": "When a friend opens up about a problem, you...",
+      "options": {
+        "a": "First empathize and read their emotions",
+        "b": "Comfort them emotionally while offering advice",
+        "c": "Organize the situation and suggest solutions",
+        "d": "Provide objective analysis for the best solution"
+      }
+    },
+    "q3": {
+      "text": "When choosing a movie, what criteria do you use?",
+      "options": {
+        "a": "Check critic ratings and award history",
+        "b": "Look at interesting storylines and genres",
+        "c": "Go with the trailer's mood and vibe",
+        "d": "Follow whatever emotion pulls you in the moment"
+      }
+    },
+    "q4": {
+      "text": "When given free time, what do you most want to do?",
+      "options": {
+        "a": "Creative activities like drawing, music, writing",
+        "b": "Brainstorm new ideas and imagine possibilities",
+        "c": "Brain games like puzzles and board games",
+        "d": "Organized activities like research and data sorting"
+      }
+    },
+    "q5": {
+      "text": "How do you approach solving a problem?",
+      "options": {
+        "a": "Follow established methods and manuals strictly",
+        "b": "Mix creative and proven approaches",
+        "c": "Break away from convention and try new things",
+        "d": "Find innovative solutions no one has thought of"
+      }
+    },
+    "q6": {
+      "text": "When you buy a new gadget, you...",
+      "options": {
+        "a": "Read the manual carefully and learn all features",
+        "b": "Learn the basics quickly, look up more later",
+        "c": "Press buttons and explore it hands-on",
+        "d": "Use it intuitively and discover new uses"
+      }
+    },
+    "q7": {
+      "text": "When arriving in an unfamiliar city, you...",
+      "options": {
+        "a": "Wander wherever your instinct guides you",
+        "b": "Set a rough direction and explore freely",
+        "c": "Observe surroundings and find interesting spots",
+        "d": "Check a map and visit landmarks systematically"
+      }
+    },
+    "q8": {
+      "text": "When forming a first impression, what do you focus on?",
+      "options": {
+        "a": "Analyze observable factors like appearance and behavior",
+        "b": "Sense a subtle feeling or energy",
+        "c": "Try to read hidden intentions beyond the surface",
+        "d": "Find patterns in their words and actions"
+      }
+    },
+    "q9": {
+      "text": "When hearing a complex story, you...",
+      "options": {
+        "a": "Check and organize every detail carefully",
+        "b": "Grasp the essence and flow intuitively",
+        "c": "Connect it with other related stories",
+        "d": "Picture the big picture first, then fill in details"
+      }
+    },
+    "q10": {
+      "text": "When planning a trip, your style is...",
+      "options": {
+        "a": "Plan every schedule and reservation meticulously",
+        "b": "Set a rough framework, keep details flexible",
+        "c": "Just pick a destination and go with the flow",
+        "d": "No plan at all — go wherever your feet take you"
+      }
+    },
+    "q11": {
+      "text": "When starting a project, you first...",
+      "options": {
+        "a": "Just start and adjust along the way",
+        "b": "Set a rough direction and execute immediately",
+        "c": "Create a step-by-step plan and execute systematically",
+        "d": "Build a detailed roadmap with milestones"
+      }
+    },
+    "q12": {
+      "text": "Your attitude toward tasks with deadlines is...",
+      "options": {
+        "a": "Finish early and enjoy the breathing room",
+        "b": "Progress steadily with moderate pressure",
+        "c": "Focus explodes near the deadline",
+        "d": "Deadline tension boosts my creativity"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "The Strategist",
+      "description": "You achieve goals through cool analysis and systematic planning. Your decisions are data-driven, and you always have a long-term vision.",
+      "traits": "Analytical Thinking, Systematic Planning, Data-Driven, Goal-Oriented"
+    },
+    "artist": {
+      "title": "The Artist",
+      "description": "You color the world with rich emotion and boundless imagination. Following intuitive inspiration, you are a free spirit unbound by convention.",
+      "traits": "Creative Inspiration, Rich Emotions, Free Spirit, Intuitive Expression"
+    },
+    "scientist": {
+      "title": "The Scientist",
+      "description": "You explore the principles of the world through curiosity and logic. Revealing truth through observation and experiment, you enjoy moments of spontaneous discovery.",
+      "traits": "Logical Inquiry, Experimental Spirit, Sharp Observation, Truth-Seeking"
+    },
+    "performer": {
+      "title": "The Performer",
+      "description": "You captivate people with outstanding empathy and creative vision. While preparing the stage methodically, you electrify the audience with emotional energy.",
+      "traits": "Charisma, Empathy, Creative Vision, Planned Execution"
+    },
+    "architect": {
+      "title": "The Architect",
+      "description": "You systematically design innovation by combining logic and creativity. Your ability to structure new ideas into achievable blueprints is exceptional.",
+      "traits": "Innovation Design, Structural Thinking, Creative+Logic, Vision Realization"
+    },
+    "explorer": {
+      "title": "The Explorer",
+      "description": "You explore uncharted territory with strong intuition and emotion. With analytical yet spontaneous steps, you discover what others cannot see.",
+      "traits": "Intuitive Exploration, Emotional Analysis, Adventurous, Joy of Discovery"
+    },
+    "manager": {
+      "title": "The Manager",
+      "description": "You lead organizations with logical intuition and systematic management. Understanding both people and systems, you achieve goals efficiently.",
+      "traits": "Leadership, Organization, Logical Intuition, Maximum Efficiency"
+    },
+    "dreamer": {
+      "title": "The Dreamer",
+      "description": "You dream new worlds with boundless imagination and emotion. Gaining inspiration through observation, your spontaneous creations birth original works.",
+      "traits": "Limitless Imagination, Original Perspective, Spontaneous Creation, Emotional Observation"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Thinking",
+      "logicPos": "Logical",
+      "logicNeg": "Emotional",
+      "creative": "Problem Solving",
+      "creativePos": "Creative",
+      "creativeNeg": "Analytical",
+      "intuition": "Perception",
+      "intuitionPos": "Intuitive",
+      "intuitionNeg": "Observant",
+      "planning": "Execution",
+      "planningPos": "Planned",
+      "planningNeg": "Spontaneous"
+    }
+  },
+  "share": {
+    "label": "Share your result!",
+    "shareText": "My brain type is {type}! What's yours? 🧠",
+    "copyLink": "Copy Link",
+    "copySuccess": "Link copied!"
+  }
+}

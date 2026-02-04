@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Test de Tipo Cerebral",
+    "subtitle": "Descubre tu tipo de cerebro\ncon 12 preguntas divertidas",
+    "startButton": "Comenzar el Test",
+    "questionCount": "12 preguntas · Aproximadamente 2 minutos"
+  },
+  "quiz": {
+    "question": "Pregunta"
+  },
+  "questions": {
+    "q1": {
+      "text": "Al tomar una decision importante, tu tiendes a...",
+      "options": {
+        "a": "Analizar cuidadosamente los datos y los hechos",
+        "b": "Pensar logicamente, pero tambien considerar los sentimientos",
+        "c": "Confiar mucho en tu instinto",
+        "d": "Seguir a donde te lleve el corazon"
+      }
+    },
+    "q2": {
+      "text": "Cuando un amigo te cuenta un problema, tu...",
+      "options": {
+        "a": "Primero empatizas y lees sus emociones",
+        "b": "Lo consuelas emocionalmente mientras das consejos",
+        "c": "Organizas la situacion y sugieres soluciones",
+        "d": "Ofreces un analisis objetivo para la mejor solucion"
+      }
+    },
+    "q3": {
+      "text": "Al elegir una pelicula, que criterios usas?",
+      "options": {
+        "a": "Revisar las calificaciones de criticos y premios",
+        "b": "Buscar tramas y generos interesantes",
+        "c": "Dejarte llevar por el ambiente del trailer",
+        "d": "Seguir la emocion que te atrapa en el momento"
+      }
+    },
+    "q4": {
+      "text": "Cuando tienes tiempo libre, que es lo que mas quieres hacer?",
+      "options": {
+        "a": "Actividades creativas como dibujar, musica, escribir",
+        "b": "Idear nuevas ideas e imaginar posibilidades",
+        "c": "Juegos mentales como puzzles y juegos de mesa",
+        "d": "Actividades organizadas como investigacion y clasificacion de datos"
+      }
+    },
+    "q5": {
+      "text": "Como abordas la resolucion de un problema?",
+      "options": {
+        "a": "Seguir estrictamente los metodos y manuales establecidos",
+        "b": "Mezclar enfoques creativos y probados",
+        "c": "Romper con lo convencional e intentar cosas nuevas",
+        "d": "Encontrar soluciones innovadoras que nadie ha pensado"
+      }
+    },
+    "q6": {
+      "text": "Cuando compras un nuevo dispositivo, tu...",
+      "options": {
+        "a": "Lees el manual detenidamente y aprendes todas las funciones",
+        "b": "Aprendes lo basico rapido y consultas mas despues",
+        "c": "Presionas botones y lo exploras directamente",
+        "d": "Lo usas intuitivamente y descubres nuevos usos"
+      }
+    },
+    "q7": {
+      "text": "Al llegar a una ciudad desconocida, tu...",
+      "options": {
+        "a": "Caminas hacia donde te guia el instinto",
+        "b": "Estableces una direccion general y exploras libremente",
+        "c": "Observas los alrededores y encuentras lugares interesantes",
+        "d": "Consultas un mapa y visitas los puntos de interes sistematicamente"
+      }
+    },
+    "q8": {
+      "text": "Al formar una primera impresion, en que te fijas?",
+      "options": {
+        "a": "Analizar factores observables como apariencia y comportamiento",
+        "b": "Percibir una sensacion o energia sutil",
+        "c": "Intentar leer intenciones ocultas mas alla de la superficie",
+        "d": "Encontrar patrones en sus palabras y acciones"
+      }
+    },
+    "q9": {
+      "text": "Al escuchar una historia compleja, tu...",
+      "options": {
+        "a": "Verificas y organizas cada detalle cuidadosamente",
+        "b": "Captas la esencia y el flujo intuitivamente",
+        "c": "Lo conectas con otras historias relacionadas",
+        "d": "Visualizas el panorama general primero, luego completas los detalles"
+      }
+    },
+    "q10": {
+      "text": "Al planificar un viaje, tu estilo es...",
+      "options": {
+        "a": "Planificar cada horario y reserva meticulosamente",
+        "b": "Establecer un marco general, mantener los detalles flexibles",
+        "c": "Solo elegir un destino y dejarse llevar",
+        "d": "Sin plan alguno: ir a donde te lleven los pies"
+      }
+    },
+    "q11": {
+      "text": "Al comenzar un proyecto, primero tu...",
+      "options": {
+        "a": "Simplemente empiezas y ajustas sobre la marcha",
+        "b": "Estableces una direccion general y ejecutas de inmediato",
+        "c": "Creas un plan paso a paso y ejecutas sistematicamente",
+        "d": "Construyes una hoja de ruta detallada con hitos"
+      }
+    },
+    "q12": {
+      "text": "Tu actitud hacia tareas con fecha limite es...",
+      "options": {
+        "a": "Terminar antes y disfrutar del tiempo libre",
+        "b": "Avanzar de manera constante con presion moderada",
+        "c": "La concentracion explota cerca de la fecha limite",
+        "d": "La tension de la fecha limite potencia mi creatividad"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "El Estratega",
+      "description": "Logras tus objetivos mediante un analisis frio y una planificacion sistematica. Tus decisiones se basan en datos y siempre tienes una vision a largo plazo.",
+      "traits": "Pensamiento Analitico, Planificacion Sistematica, Basado en Datos, Orientado a Objetivos"
+    },
+    "artist": {
+      "title": "El Artista",
+      "description": "Coloreas el mundo con emociones ricas e imaginacion infinita. Siguiendo la inspiracion intuitiva, eres un espiritu libre sin ataduras.",
+      "traits": "Inspiracion Creativa, Emociones Ricas, Espiritu Libre, Expresion Intuitiva"
+    },
+    "scientist": {
+      "title": "El Cientifico",
+      "description": "Exploras los principios del mundo con curiosidad y logica. Revelando la verdad a traves de la observacion y el experimento, disfrutas de los momentos de descubrimiento espontaneo.",
+      "traits": "Investigacion Logica, Espiritu Experimental, Observacion Aguda, Busqueda de la Verdad"
+    },
+    "performer": {
+      "title": "El Artista Escenico",
+      "description": "Cautivas a las personas con una empatia excepcional y una vision creativa. Mientras preparas el escenario metodicamente, electrizas al publico con energia emocional.",
+      "traits": "Carisma, Empatia, Vision Creativa, Ejecucion Planificada"
+    },
+    "architect": {
+      "title": "El Arquitecto",
+      "description": "Disenas innovacion sistematicamente combinando logica y creatividad. Tu capacidad para estructurar nuevas ideas en planos alcanzables es excepcional.",
+      "traits": "Diseno Innovador, Pensamiento Estructural, Creatividad+Logica, Realizacion de Vision"
+    },
+    "explorer": {
+      "title": "El Explorador",
+      "description": "Exploras territorios inexplorados con una fuerte intuicion y emocion. Con pasos analiticos pero espontaneos, descubres lo que otros no pueden ver.",
+      "traits": "Exploracion Intuitiva, Analisis Emocional, Aventurero, Alegria del Descubrimiento"
+    },
+    "manager": {
+      "title": "El Gerente",
+      "description": "Lideras organizaciones con intuicion logica y gestion sistematica. Comprendiendo tanto a las personas como a los sistemas, logras objetivos eficientemente.",
+      "traits": "Liderazgo, Organizacion, Intuicion Logica, Maxima Eficiencia"
+    },
+    "dreamer": {
+      "title": "El Sonador",
+      "description": "Suenas nuevos mundos con imaginacion infinita y emocion. Obteniendo inspiracion a traves de la observacion, tus creaciones espontaneas dan vida a obras originales.",
+      "traits": "Imaginacion Ilimitada, Perspectiva Original, Creacion Espontanea, Observacion Emocional"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Pensamiento",
+      "logicPos": "Logico",
+      "logicNeg": "Emocional",
+      "creative": "Resolucion de Problemas",
+      "creativePos": "Creativo",
+      "creativeNeg": "Analitico",
+      "intuition": "Percepcion",
+      "intuitionPos": "Intuitivo",
+      "intuitionNeg": "Observador",
+      "planning": "Ejecucion",
+      "planningPos": "Planificado",
+      "planningNeg": "Espontaneo"
+    }
+  },
+  "share": {
+    "label": "Comparte tu resultado!",
+    "shareText": "Mi tipo de cerebro es {type}! Y el tuyo? 🧠",
+    "copyLink": "Copiar enlace",
+    "copySuccess": "Enlace copiado!"
+  }
+}

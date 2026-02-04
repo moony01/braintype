@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Teste de Tipo Cerebral",
+    "subtitle": "Descubra seu tipo de cerebro\ncom 12 perguntas divertidas",
+    "startButton": "Comecar o Teste",
+    "questionCount": "12 perguntas · Aproximadamente 2 minutos"
+  },
+  "quiz": {
+    "question": "Pergunta"
+  },
+  "questions": {
+    "q1": {
+      "text": "Ao tomar uma decisao importante, voce tende a...",
+      "options": {
+        "a": "Analisar cuidadosamente dados e fatos",
+        "b": "Pensar logicamente, mas tambem considerar sentimentos",
+        "c": "Confiar significativamente na sua intuicao",
+        "d": "Seguir para onde o coracao levar"
+      }
+    },
+    "q2": {
+      "text": "Quando um amigo desabafa um problema, voce...",
+      "options": {
+        "a": "Primeiro demonstra empatia e le suas emocoes",
+        "b": "Conforta emocionalmente enquanto oferece conselhos",
+        "c": "Organiza a situacao e sugere solucoes",
+        "d": "Oferece uma analise objetiva para a melhor solucao"
+      }
+    },
+    "q3": {
+      "text": "Ao escolher um filme, que criterios voce usa?",
+      "options": {
+        "a": "Verificar avaliacoes de criticos e historico de premios",
+        "b": "Procurar enredos e generos interessantes",
+        "c": "Se deixar levar pelo clima do trailer",
+        "d": "Seguir a emocao que te atrai no momento"
+      }
+    },
+    "q4": {
+      "text": "Quando tem tempo livre, o que mais quer fazer?",
+      "options": {
+        "a": "Atividades criativas como desenho, musica, escrita",
+        "b": "Criar novas ideias e imaginar possibilidades",
+        "c": "Jogos de raciocinio como quebra-cabecas e jogos de tabuleiro",
+        "d": "Atividades organizadas como pesquisa e organizacao de dados"
+      }
+    },
+    "q5": {
+      "text": "Como voce aborda a resolucao de um problema?",
+      "options": {
+        "a": "Seguir rigorosamente metodos e manuais estabelecidos",
+        "b": "Misturar abordagens criativas e comprovadas",
+        "c": "Romper com a convencao e tentar coisas novas",
+        "d": "Encontrar solucoes inovadoras que ninguem pensou"
+      }
+    },
+    "q6": {
+      "text": "Quando compra um novo aparelho, voce...",
+      "options": {
+        "a": "Le o manual cuidadosamente e aprende todas as funcoes",
+        "b": "Aprende o basico rapidamente, pesquisa mais depois",
+        "c": "Aperta botoes e explora na pratica",
+        "d": "Usa intuitivamente e descobre novos usos"
+      }
+    },
+    "q7": {
+      "text": "Ao chegar numa cidade desconhecida, voce...",
+      "options": {
+        "a": "Vai para onde seu instinto te guia",
+        "b": "Define uma direcao geral e explora livremente",
+        "c": "Observa os arredores e encontra lugares interessantes",
+        "d": "Consulta um mapa e visita pontos turisticos sistematicamente"
+      }
+    },
+    "q8": {
+      "text": "Ao formar uma primeira impressao, no que voce foca?",
+      "options": {
+        "a": "Analisar fatores observaveis como aparencia e comportamento",
+        "b": "Perceber uma sensacao ou energia sutil",
+        "c": "Tentar ler intencoes ocultas alem da superficie",
+        "d": "Encontrar padroes nas palavras e acoes"
+      }
+    },
+    "q9": {
+      "text": "Ao ouvir uma historia complexa, voce...",
+      "options": {
+        "a": "Verifica e organiza cada detalhe cuidadosamente",
+        "b": "Capta a essencia e o fluxo intuitivamente",
+        "c": "Conecta com outras historias relacionadas",
+        "d": "Visualiza o panorama geral primeiro, depois preenche os detalhes"
+      }
+    },
+    "q10": {
+      "text": "Ao planejar uma viagem, seu estilo e...",
+      "options": {
+        "a": "Planejar cada horario e reserva meticulosamente",
+        "b": "Definir uma estrutura geral, manter detalhes flexiveis",
+        "c": "Apenas escolher um destino e ir com o fluxo",
+        "d": "Sem plano nenhum - ir para onde os pes levarem"
+      }
+    },
+    "q11": {
+      "text": "Ao comecar um projeto, voce primeiro...",
+      "options": {
+        "a": "Simplesmente comeca e ajusta pelo caminho",
+        "b": "Define uma direcao geral e executa imediatamente",
+        "c": "Cria um plano passo a passo e executa sistematicamente",
+        "d": "Constroi um roteiro detalhado com marcos"
+      }
+    },
+    "q12": {
+      "text": "Sua atitude em relacao a tarefas com prazo e...",
+      "options": {
+        "a": "Terminar cedo e aproveitar o tempo livre",
+        "b": "Progredir de forma constante com pressao moderada",
+        "c": "A concentracao explode perto do prazo",
+        "d": "A tensao do prazo impulsiona minha criatividade"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "O Estrategista",
+      "description": "Voce alcanca objetivos atraves de analise fria e planejamento sistematico. Suas decisoes sao baseadas em dados, e voce sempre tem uma visao de longo prazo.",
+      "traits": "Pensamento Analitico, Planejamento Sistematico, Orientado por Dados, Focado em Objetivos"
+    },
+    "artist": {
+      "title": "O Artista",
+      "description": "Voce colore o mundo com emocoes ricas e imaginacao ilimitada. Seguindo a inspiracao intuitiva, voce e um espirito livre sem amarras.",
+      "traits": "Inspiracao Criativa, Emocoes Ricas, Espirito Livre, Expressao Intuitiva"
+    },
+    "scientist": {
+      "title": "O Cientista",
+      "description": "Voce explora os principios do mundo com curiosidade e logica. Revelando a verdade atraves da observacao e do experimento, aprecia momentos de descoberta espontanea.",
+      "traits": "Investigacao Logica, Espirito Experimental, Observacao Aguada, Busca da Verdade"
+    },
+    "performer": {
+      "title": "O Artista Performatico",
+      "description": "Voce cativa as pessoas com empatia excepcional e visao criativa. Enquanto prepara o palco metodicamente, eletriza o publico com energia emocional.",
+      "traits": "Carisma, Empatia, Visao Criativa, Execucao Planejada"
+    },
+    "architect": {
+      "title": "O Arquiteto",
+      "description": "Voce projeta inovacao sistematicamente combinando logica e criatividade. Sua capacidade de estruturar novas ideias em projetos alcancaveis e excepcional.",
+      "traits": "Design Inovador, Pensamento Estrutural, Criatividade+Logica, Realizacao de Visao"
+    },
+    "explorer": {
+      "title": "O Explorador",
+      "description": "Voce explora territorios desconhecidos com forte intuicao e emocao. Com passos analiticos mas espontaneos, descobre o que outros nao conseguem ver.",
+      "traits": "Exploracao Intuitiva, Analise Emocional, Aventureiro, Alegria da Descoberta"
+    },
+    "manager": {
+      "title": "O Gerente",
+      "description": "Voce lidera organizacoes com intuicao logica e gestao sistematica. Compreendendo pessoas e sistemas, alcanca objetivos eficientemente.",
+      "traits": "Lideranca, Organizacao, Intuicao Logica, Eficiencia Maxima"
+    },
+    "dreamer": {
+      "title": "O Sonhador",
+      "description": "Voce sonha novos mundos com imaginacao ilimitada e emocao. Obtendo inspiracao pela observacao, suas criacoes espontaneas dao vida a obras originais.",
+      "traits": "Imaginacao Ilimitada, Perspectiva Original, Criacao Espontanea, Observacao Emocional"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Pensamento",
+      "logicPos": "Logico",
+      "logicNeg": "Emocional",
+      "creative": "Resolucao de Problemas",
+      "creativePos": "Criativo",
+      "creativeNeg": "Analitico",
+      "intuition": "Percepcao",
+      "intuitionPos": "Intuitivo",
+      "intuitionNeg": "Observador",
+      "planning": "Execucao",
+      "planningPos": "Planejado",
+      "planningNeg": "Espontaneo"
+    }
+  },
+  "share": {
+    "label": "Compartilhe seu resultado!",
+    "shareText": "Meu tipo de cerebro e {type}! E o seu? 🧠",
+    "copyLink": "Copiar link",
+    "copySuccess": "Link copiado!"
+  }
+}

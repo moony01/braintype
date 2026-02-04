@@ -1,0 +1,185 @@
+{
+  "home": {
+    "title": "Trac Nghiem Loai Nao Bo",
+    "subtitle": "Kham pha loai nao cua ban\nvoi 12 cau hoi thu vi",
+    "startButton": "Bat Dau Trac Nghiem",
+    "questionCount": "12 cau hoi · Khoang 2 phut"
+  },
+  "quiz": {
+    "question": "Cau hoi"
+  },
+  "questions": {
+    "q1": {
+      "text": "Khi dua ra quyet dinh quan trong, ban thuong...",
+      "options": {
+        "a": "Phan tich du lieu va su kien mot cach can than",
+        "b": "Suy nghi logic, nhung cung xem xet cam xuc",
+        "c": "Tin tuong dang ke vao linh cam",
+        "d": "Di theo noi trai tim dan loi"
+      }
+    },
+    "q2": {
+      "text": "Khi ban be tam su ve van de, ban...",
+      "options": {
+        "a": "Truoc tien dong cam va doc cam xuc cua ho",
+        "b": "An ui ve mat cam xuc dong thoi dua ra loi khuyen",
+        "c": "Sap xep tinh hinh va de xuat giai phap",
+        "d": "Dua ra phan tich khach quan de tim giai phap tot nhat"
+      }
+    },
+    "q3": {
+      "text": "Khi chon phim, ban dung tieu chi gi?",
+      "options": {
+        "a": "Xem danh gia cua nha phe binh va lich su giai thuong",
+        "b": "Tim cot truyen va the loai thu vi",
+        "c": "Theo cam xuc va khong khi cua trailer",
+        "d": "Theo cam xuc thu hut ban vao luc do"
+      }
+    },
+    "q4": {
+      "text": "Khi co thoi gian ranh, ban muon lam gi nhat?",
+      "options": {
+        "a": "Hoat dong sang tao nhu ve, am nhac, viet lach",
+        "b": "Suy nghi y tuong moi va tuong tuong kha nang",
+        "c": "Tro choi tri nao nhu xep hinh va co ban",
+        "d": "Hoat dong co to chuc nhu nghien cuu va sap xep du lieu"
+      }
+    },
+    "q5": {
+      "text": "Ban tiep can viec giai quyet van de nhu the nao?",
+      "options": {
+        "a": "Tuan thu nghiem ngat cac phuong phap va huong dan da co",
+        "b": "Ket hop cach tiep can sang tao va da duoc chung minh",
+        "c": "Pha vo quy uoc va thu nhung dieu moi",
+        "d": "Tim giai phap dot pha ma chua ai nghi toi"
+      }
+    },
+    "q6": {
+      "text": "Khi mua mot thiet bi moi, ban...",
+      "options": {
+        "a": "Doc ky huong dan su dung va tim hieu moi tinh nang",
+        "b": "Hoc nhanh cac chuc nang co ban, tim hieu them sau",
+        "c": "Nhan cac nut va kham pha truc tiep",
+        "d": "Su dung theo truc giac va kham pha cong dung moi"
+      }
+    },
+    "q7": {
+      "text": "Khi den mot thanh pho la, ban...",
+      "options": {
+        "a": "Di theo noi ban giac dan loi",
+        "b": "Xac dinh huong di chung va tu do kham pha",
+        "c": "Quan sat xung quanh va tim nhung noi thu vi",
+        "d": "Xem ban do va tham cac dia diem theo he thong"
+      }
+    },
+    "q8": {
+      "text": "Khi hinh thanh an tuong dau tien, ban tap trung vao gi?",
+      "options": {
+        "a": "Phan tich cac yeu to quan sat duoc nhu ngoai hinh va hanh vi",
+        "b": "Cam nhan mot cam giac hoac nang luong tinh te",
+        "c": "Co doc y dinh an giau phia sau be mat",
+        "d": "Tim kieu mau trong loi noi va hanh dong cua ho"
+      }
+    },
+    "q9": {
+      "text": "Khi nghe mot cau chuyen phuc tap, ban...",
+      "options": {
+        "a": "Kiem tra va sap xep tung chi tiet mot cach can than",
+        "b": "Nam bat ban chat va dong chay mot cach truc giac",
+        "c": "Ket noi no voi cac cau chuyen lien quan khac",
+        "d": "Hinh dung buc tranh toan canh truoc, roi dien vao chi tiet"
+      }
+    },
+    "q10": {
+      "text": "Khi len ke hoach du lich, phong cach cua ban la...",
+      "options": {
+        "a": "Len ke hoach tung lich trinh va dat cho ti mi",
+        "b": "Dat khung lon, giu chi tiet linh hoat",
+        "c": "Chi chon diem den va tuy co ung bien",
+        "d": "Khong ke hoach gi ca - di den dau hay den do"
+      }
+    },
+    "q11": {
+      "text": "Khi bat dau mot du an, ban dau tien...",
+      "options": {
+        "a": "Cu bat dau va dieu chinh doc duong",
+        "b": "Xac dinh huong di chung va thuc hien ngay",
+        "c": "Tao ke hoach tung buoc va thuc hien co he thong",
+        "d": "Xay dung lo trinh chi tiet voi cac moc quan trong"
+      }
+    },
+    "q12": {
+      "text": "Thai do cua ban voi nhung nhiem vu co han chot la...",
+      "options": {
+        "a": "Hoan thanh som va tan huong thoi gian thoai mai",
+        "b": "Tien do deu dan voi ap luc vua phai",
+        "c": "Su tap trung bung no khi gan han chot",
+        "d": "Ap luc han chot thuc day su sang tao cua toi"
+      }
+    }
+  },
+  "results": {
+    "strategist": {
+      "title": "Nha Chien Luoc",
+      "description": "Ban dat duoc muc tieu thong qua phan tich lanh lung va ke hoach co he thong. Quyet dinh cua ban dua tren du lieu, va ban luon co tam nhin dai han.",
+      "traits": "Tu Duy Phan Tich, Ke Hoach He Thong, Dua Tren Du Lieu, Huong Muc Tieu"
+    },
+    "artist": {
+      "title": "Nghe Si",
+      "description": "Ban to mau the gioi bang cam xuc phong phu va tri tuong tuong vo tan. Theo duoi cam hung truc giac, ban la mot tam hon tu do khong bi rang buoc.",
+      "traits": "Cam Hung Sang Tao, Cam Xuc Phong Phu, Tam Hon Tu Do, Bieu Dat Truc Giac"
+    },
+    "scientist": {
+      "title": "Nha Khoa Hoc",
+      "description": "Ban kham pha cac nguyen ly cua the gioi bang su to mo va logic. Kham pha su that thong qua quan sat va thi nghiem, ban tan huong nhung khoanh khac phat hien tu phat.",
+      "traits": "Nghien Cuu Logic, Tinh Than Thi Nghiem, Quan Sat Sac Ben, Tim Kiem Su That"
+    },
+    "performer": {
+      "title": "Nghe Si Bieu Dien",
+      "description": "Ban thu hut moi nguoi bang su dong cam xuat sac va tam nhin sang tao. Trong khi chuan bi san khau mot cach co phuong phap, ban lam soi dong khan gia bang nang luong cam xuc.",
+      "traits": "Su Cuon Hut, Dong Cam, Tam Nhin Sang Tao, Thuc Hien Co Ke Hoach"
+    },
+    "architect": {
+      "title": "Kien Truc Su",
+      "description": "Ban thiet ke doi moi mot cach co he thong bang cach ket hop logic va sang tao. Kha nang cau truc y tuong moi thanh ban ve kha thi cua ban la dac biet.",
+      "traits": "Thiet Ke Doi Moi, Tu Duy Cau Truc, Sang Tao+Logic, Hien Thuc Hoa Tam Nhin"
+    },
+    "explorer": {
+      "title": "Nha Tham Hiem",
+      "description": "Ban kham pha vung dat chua duoc biet den voi truc giac manh me va cam xuc. Voi nhung buoc di phan tich nhung tu phat, ban kham pha dieu ma nguoi khac khong the thay.",
+      "traits": "Kham Pha Truc Giac, Phan Tich Cam Xuc, Phieu Luu, Niem Vui Kham Pha"
+    },
+    "manager": {
+      "title": "Nha Quan Ly",
+      "description": "Ban dan dat to chuc bang truc giac logic va quan ly co he thong. Hieu ca con nguoi va he thong, ban dat duoc muc tieu mot cach hieu qua.",
+      "traits": "Lanh Dao, To Chuc, Truc Giac Logic, Hieu Qua Toi Da"
+    },
+    "dreamer": {
+      "title": "Nguoi Mo Mong",
+      "description": "Ban mo ve nhung the gioi moi voi tri tuong tuong vo han va cam xuc. Lay cam hung tu quan sat, nhung sang tao tu phat cua ban cho ra doi nhung tac pham doc dao.",
+      "traits": "Tri Tuong Tuong Vo Han, Goc Nhin Doc Dao, Sang Tao Tu Phat, Quan Sat Cam Xuc"
+    }
+  },
+  "result": {
+    "axes": {
+      "logic": "Tu Duy",
+      "logicPos": "Logic",
+      "logicNeg": "Cam Xuc",
+      "creative": "Giai Quyet Van De",
+      "creativePos": "Sang Tao",
+      "creativeNeg": "Phan Tich",
+      "intuition": "Nhan Thuc",
+      "intuitionPos": "Truc Giac",
+      "intuitionNeg": "Quan Sat",
+      "planning": "Thuc Hien",
+      "planningPos": "Co Ke Hoach",
+      "planningNeg": "Tu Phat"
+    }
+  },
+  "share": {
+    "label": "Chia se ket qua cua ban!",
+    "shareText": "Loai nao cua toi la {type}! Con ban thi sao? 🧠",
+    "copyLink": "Sao Chep Lien Ket",
+    "copySuccess": "Da sao chep lien ket!"
+  }
+}
