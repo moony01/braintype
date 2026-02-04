@@ -1,6 +1,7 @@
 'use client';
 
 import React from 'react';
+import { useTranslations } from 'next-intl';
 import type { QuizResult } from '@/types';
 import Button from '../ui/Button';
 import RadarChart from './RadarChart';
@@ -29,12 +30,22 @@ export default function ResultCard({
   onRestart,
   shareUrl,
 }: ResultCardProps) {
+  const tResult = useTranslations('result');
+
   return (
     <div className="w-full max-w-md mx-auto animate-fade-in">
       <div
         className="relative bg-white rounded-3xl overflow-hidden shadow-2xl p-8 text-center"
         style={{ borderTop: `6px solid ${result.brainType.colorTheme}` }}
       >
+        {/* 참여자 수 (소셜 증거) */}
+        <div className="mb-4 flex items-center justify-center gap-1.5">
+          <span className="text-sm">🔥</span>
+          <span className="text-xs font-semibold text-gray-400">
+            {tResult('participantCount')}
+          </span>
+        </div>
+
         {/* 이모지 + 유형명 */}
         <div className="mb-4">
           <span className="text-7xl animate-bounce-in inline-block" role="img" aria-label={title}>

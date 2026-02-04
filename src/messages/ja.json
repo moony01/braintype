@@ -161,6 +161,7 @@
     }
   },
   "result": {
+    "participantCount": "10,000+人がテスト済み！",
     "axes": {
       "logic": "思考方式",
       "logicPos": "論理的",
@@ -175,6 +176,11 @@
       "planningPos": "計画的",
       "planningNeg": "即興的"
     }
+  },
+  "ad": {
+    "continue": "続ける",
+    "seeResult": "結果を見る",
+    "loading": "しばらくお待ちください..."
   },
   "share": {
     "label": "結果をシェアしよう！",

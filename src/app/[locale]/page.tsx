@@ -7,17 +7,20 @@ import { useQuiz } from '@/hooks/useQuiz';
 import Button from '@/components/ui/Button';
 import HomeButton from '@/components/ui/HomeButton';
 import PageLayout from '@/components/layout/PageLayout';
+import AdBanner from '@/components/layout/AdBanner';
 import QuestionCard from '@/components/quiz/QuestionCard';
+import ProgressBar from '@/components/quiz/ProgressBar';
 import ResultCard from '@/components/result/ResultCard';
 import LanguageSwitcher from '@/components/layout/LanguageSwitcher';
 
 /**
  * 메인 페이지
  *
- * 3단계 흐름:
+ * 4단계 흐름:
  * 1. 랜딩 화면 (시작 버튼)
  * 2. 퀴즈 화면 (12개 질문)
- * 3. 결과 화면 (뇌 유형 + 레이더 차트)
+ * 3. 광고 화면 (Q4, Q8, Q12 답변 후 전면 인터스티셜)
+ * 4. 결과 화면 (뇌 유형 + 레이더 차트 + 상단/하단 광고)
  */
 export default function Home() {
   const params = useParams();
@@ -26,6 +29,7 @@ export default function Home() {
   const t = useTranslations();
   const tQuestions = useTranslations('questions');
   const tResults = useTranslations('results');
+  const tAd = useTranslations('ad');
 
   const {
     isStarted,
@@ -34,8 +38,11 @@ export default function Home() {
     totalQuestions,
     isCompleted,
     result,
+    showingAd,
+    isLastAd,
     start,
     submitAnswer,
+    dismissAd,
     reset,
   } = useQuiz();
 
@@ -98,7 +105,34 @@ export default function Home() {
     );
   }
 
-  // 2. 퀴즈 화면
+  // 2. 광고 화면 (Q4, Q8, Q12 답변 후 전면 인터스티셜)
+  if (showingAd) {
+    return (
+      <PageLayout showBottomAd={false}>
+        <div className="w-full max-w-xl mx-auto p-4 animate-fade-in">
+          {/* 진행률 표시 */}
+          <ProgressBar current={currentIndex + 1} total={totalQuestions} />
+
+          {/* 광고 배너 영역 */}
+          <div className="my-8">
+            <AdBanner className="max-w-md w-full mx-auto" />
+          </div>
+
+          {/* 계속/결과 보기 버튼 */}
+          <Button
+            onClick={dismissAd}
+            size="lg"
+            fullWidth
+            className="text-lg py-5 shadow-lg shadow-primary/20"
+          >
+            {isLastAd ? tAd('seeResult') : tAd('continue')}
+          </Button>
+        </div>
+      </PageLayout>
+    );
+  }
+
+  // 3. 퀴즈 화면
   if (currentQuestion && !isCompleted) {
     const questionText = tQuestions(`q${currentQuestion.id}.text`);
     const options = currentQuestion.options.map((opt) => ({
@@ -107,7 +141,7 @@ export default function Home() {
     }));
 
     return (
-      <PageLayout>
+      <PageLayout showBottomAd={false}>
         <HomeButton onClick={reset} />
         <QuestionCard
           question={questionText}
@@ -120,7 +154,7 @@ export default function Home() {
     );
   }
 
-  // 3. 결과 화면
+  // 4. 결과 화면 (상단 + 하단 광고 배너)
   if (isCompleted && result) {
     const typeKey = result.brainType.id;
     const title = tResults(`${typeKey}.title`);
@@ -131,7 +165,7 @@ export default function Home() {
     const traits = traitsRaw.split(',').map((s: string) => s.trim());
 
     return (
-      <PageLayout>
+      <PageLayout showTopAd showBottomAd>
         <HomeButton onClick={reset} />
         <ResultCard
           result={result}

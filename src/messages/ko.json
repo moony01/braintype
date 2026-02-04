@@ -161,6 +161,7 @@
     }
   },
   "result": {
+    "participantCount": "10,000+명이 테스트했어요!",
     "axes": {
       "logic": "사고 방식",
       "logicPos": "논리적",
@@ -175,6 +176,11 @@
       "planningPos": "계획적",
       "planningNeg": "즉흥적"
     }
+  },
+  "ad": {
+    "continue": "계속하기",
+    "seeResult": "결과 보기",
+    "loading": "잠시만 기다려주세요..."
   },
   "share": {
     "label": "결과를 공유해보세요!",

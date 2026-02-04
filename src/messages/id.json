@@ -161,6 +161,7 @@
     }
   },
   "result": {
+    "participantCount": "10.000+ orang telah menguji!",
     "axes": {
       "logic": "Pemikiran",
       "logicPos": "Logis",
@@ -175,6 +176,11 @@
       "planningPos": "Terencana",
       "planningNeg": "Spontan"
     }
+  },
+  "ad": {
+    "continue": "Lanjutkan",
+    "seeResult": "Lihat Hasil",
+    "loading": "Harap tunggu..."
   },
   "share": {
     "label": "Bagikan hasilmu!",

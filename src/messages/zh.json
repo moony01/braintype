@@ -161,6 +161,7 @@
     }
   },
   "result": {
+    "participantCount": "10,000+人已测试！",
     "axes": {
       "logic": "思维方式",
       "logicPos": "逻辑型",
@@ -175,6 +176,11 @@
       "planningPos": "计划型",
       "planningNeg": "即兴型"
     }
+  },
+  "ad": {
+    "continue": "继续",
+    "seeResult": "查看结果",
+    "loading": "请稍等..."
   },
   "share": {
     "label": "分享你的结果吧！",

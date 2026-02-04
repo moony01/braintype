@@ -20,11 +20,20 @@ export const metadata: Metadata = {
     siteName: 'Brain Type Test',
     type: 'website',
     locale: 'en',
+    images: [
+      {
+        url: `${siteUrl}/images/og-image.png`,
+        width: 1200,
+        height: 630,
+        alt: 'Brain Type Test - Discover your brain type',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Brain Type Test - 뇌 유형 테스트',
     description: 'Discover your brain type! Are you a Strategist, Artist, Scientist, or Dreamer?',
+    images: [`${siteUrl}/images/og-image.png`],
   },
   robots: { index: true, follow: true },
   icons: {

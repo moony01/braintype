@@ -38,6 +38,37 @@ const descriptions: Record<string, string> = {
 const siteOrigin = 'https://moony01.github.io';
 const baseUrl = 'https://moony01.github.io/braintype';
 
+/** OG 이미지 URL (1200x630) */
+const ogImageUrl = `${baseUrl}/images/og-image.png`;
+
+/**
+ * JSON-LD 구조화 데이터 생성 (Quiz 스키마)
+ *
+ * Google 리치 리절트에 표시될 수 있도록 Quiz 타입의 구조화 데이터를 생성합니다.
+ * 각 언어별로 제목, 설명, URL을 동적으로 설정합니다.
+ */
+function generateJsonLd(locale: string) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Quiz',
+    name: titles[locale] || titles.en,
+    description: descriptions[locale] || descriptions.en,
+    url: `${baseUrl}/${locale}`,
+    inLanguage: localeHtmlLang[locale as Locale] || locale,
+    educationalLevel: 'beginner',
+    image: ogImageUrl,
+    provider: {
+      '@type': 'Organization',
+      name: 'Brain Type Test',
+      url: baseUrl,
+    },
+    about: {
+      '@type': 'Thing',
+      name: 'Brain Type',
+    },
+  };
+}
+
 /**
  * 정적 export를 위한 모든 locale 경로 생성
  */
@@ -73,11 +104,20 @@ export async function generateMetadata({
       type: 'website',
       locale,
       siteName: 'Brain Type Test',
+      images: [
+        {
+          url: ogImageUrl,
+          width: 1200,
+          height: 630,
+          alt: titles[locale] || titles.en,
+        },
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: titles[locale] || titles.en,
       description: descriptions[locale] || descriptions.en,
+      images: [ogImageUrl],
     },
   };
 }
@@ -98,8 +138,25 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
   const messages = await getMessages();
   const htmlLang = localeHtmlLang[locale as Locale] || locale;
 
+  // JSON-LD 구조화 데이터
+  const jsonLd = generateJsonLd(locale);
+
   return (
     <>
+      {/* JSON-LD 구조화 데이터 (검색엔진 리치 리절트용) */}
+      <Script
+        id="json-ld"
+        type="application/ld+json"
+        strategy="beforeInteractive"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      {/* Google AdSense 광고 스크립트 */}
+      <Script
+        id="adsense"
+        strategy="afterInteractive"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8955182453510440"
+        crossOrigin="anonymous"
+      />
       {/* lang 속성 동적 설정 */}
       <Script
         id="set-lang"

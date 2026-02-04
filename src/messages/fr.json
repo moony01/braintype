@@ -161,6 +161,7 @@
     }
   },
   "result": {
+    "participantCount": "10 000+ personnes ont testé !",
     "axes": {
       "logic": "Pensee",
       "logicPos": "Logique",
@@ -175,6 +176,11 @@
       "planningPos": "Planifie",
       "planningNeg": "Spontane"
     }
+  },
+  "ad": {
+    "continue": "Continuer",
+    "seeResult": "Voir le résultat",
+    "loading": "Veuillez patienter..."
   },
   "share": {
     "label": "Partagez votre resultat !",
