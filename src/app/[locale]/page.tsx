@@ -150,6 +150,8 @@ export default function Home() {
           totalQuestions={totalQuestions}
           onAnswer={handleAnswer}
         />
+        {/* 각 질문 하단 광고 배너 */}
+        <AdBanner className="mt-6 max-w-md w-full" />
       </PageLayout>
     );
   }
