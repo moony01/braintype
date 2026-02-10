@@ -35,8 +35,8 @@ const descriptions: Record<string, string> = {
   tr: 'Beyin tipini 12 soruyla keşfet! Stratejist, Sanatçı, Bilim İnsanı... Sen hangi tipsin?',
 };
 
-const siteOrigin = 'https://moony01.github.io';
-const baseUrl = 'https://moony01.github.io/braintype';
+const siteOrigin = 'https://moony01.com';
+const baseUrl = 'https://moony01.com/braintype';
 
 /** OG 이미지 URL (1200x630) */
 const ogImageUrl = `${baseUrl}/images/og-image.png`;

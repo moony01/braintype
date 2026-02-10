@@ -10,7 +10,7 @@ export const dynamic = 'force-static';
  * 검색엔진(Google, Bing 등)이 사이트의 모든 페이지를 발견할 수 있도록 돕습니다.
  */
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://moony01.github.io/braintype';
+  const baseUrl = 'https://moony01.com/braintype';
 
   return locales.map((locale) => ({
     url: `${baseUrl}/${locale}`,

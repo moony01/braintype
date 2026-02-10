@@ -98,7 +98,7 @@ export default function ResultCard({
           <p className="text-gray-400 text-xs mb-3">Try other tests too!</p>
           <div className="flex gap-2 justify-center flex-wrap">
             <a
-              href="https://moony01.github.io/mentalage/"
+              href="https://moony01.com/mentalage/"
               className="px-3 py-1.5 bg-purple-50 text-purple-600 rounded-full text-xs font-medium hover:bg-purple-100 transition-all active:scale-95"
               target="_blank"
               rel="noopener noreferrer"
@@ -106,7 +106,7 @@ export default function ResultCard({
               🧠 Mental Age Test
             </a>
             <a
-              href="https://moony01.github.io/kpopface/"
+              href="https://moony01.com/kpopface/"
               className="px-3 py-1.5 bg-pink-50 text-pink-600 rounded-full text-xs font-medium hover:bg-pink-100 transition-all active:scale-95"
               target="_blank"
               rel="noopener noreferrer"

@@ -1,7 +1,7 @@
 import './globals.css';
 import type { Metadata, Viewport } from 'next';
 
-const siteUrl = 'https://moony01.github.io/braintype';
+const siteUrl = 'https://moony01.com/braintype';
 
 /**
  * 루트 메타데이터 - 기본 SEO 정보
@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   description:
     'Discover your brain type with 12 fun questions! Are you a Strategist, Artist, Scientist, or Dreamer? 12가지 질문으로 알아보는 당신의 뇌 유형!',
   keywords: ['brain type test', '뇌 유형 테스트', 'quiz', '심리테스트', '성격테스트', 'personality test'],
-  metadataBase: new URL('https://moony01.github.io'),
+  metadataBase: new URL('https://moony01.com'),
   alternates: { canonical: siteUrl },
   openGraph: {
     title: 'Brain Type Test - 뇌 유형 테스트',
