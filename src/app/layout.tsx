@@ -7,14 +7,14 @@ const siteUrl = 'https://moony01.com/braintype';
  * 루트 메타데이터 - 기본 SEO 정보
  */
 export const metadata: Metadata = {
-  title: 'Brain Type Test - 뇌 유형 테스트',
+  title: 'Brain Type Test - Strategist, Artist, Scientist or Dreamer? Free Quiz',
   description:
     'Discover your brain type with 12 fun questions! Are you a Strategist, Artist, Scientist, or Dreamer? 12가지 질문으로 알아보는 당신의 뇌 유형!',
   keywords: ['brain type test', '뇌 유형 테스트', 'quiz', '심리테스트', '성격테스트', 'personality test'],
   metadataBase: new URL('https://moony01.com'),
   alternates: { canonical: siteUrl },
   openGraph: {
-    title: 'Brain Type Test - 뇌 유형 테스트',
+    title: 'Brain Type Test - Strategist, Artist, Scientist or Dreamer? Free Quiz',
     description: 'Discover your brain type! Are you a Strategist, Artist, Scientist, or Dreamer?',
     url: siteUrl,
     siteName: 'Brain Type Test',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Brain Type Test - 뇌 유형 테스트',
+    title: 'Brain Type Test - Strategist, Artist, Scientist or Dreamer? Free Quiz',
     description: 'Discover your brain type! Are you a Strategist, Artist, Scientist, or Dreamer?',
     images: [`${siteUrl}/images/og-image.png`],
   },
@@ -50,13 +50,31 @@ export const viewport: Viewport = {
   initialScale: 1,
 };
 
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'Brain Type Test',
+  description: 'Discover your brain type with 12 fun questions!',
+  url: siteUrl,
+  applicationCategory: 'Entertainment',
+  operatingSystem: 'Web',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  inLanguage: ['ko', 'en'],
+};
+
 /**
  * 루트 레이아웃
  */
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body>{children}</body>
+      <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        {children}
+      </body>
     </html>
   );
 }
